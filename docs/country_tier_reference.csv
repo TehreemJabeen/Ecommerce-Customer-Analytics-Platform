@@ -1,0 +1,38 @@
+Country,RevenueTier,TierLabel,TotalRevenue,RevenueShare%
+United Kingdom,2,High,6515624.402,87.64
+EIRE,1,Medium,334240.09,4.5
+Germany,1,Medium,175593.98,2.36
+France,0,Low,102469.11,1.38
+Sweden,0,Low,31524.5,0.42
+Spain,0,Low,29782.18,0.4
+Channel Islands,0,Low,24346.32,0.33
+Portugal,0,Low,21380.09,0.29
+Belgium,0,Low,19297.64,0.26
+Switzerland,0,Low,18969.23,0.26
+Netherlands,0,Low,18449.82,0.25
+Denmark,0,Low,16062.79,0.22
+Italy,0,Low,13503.51,0.18
+Austria,0,Low,11554.33,0.16
+Cyprus,0,Low,11359.75,0.15
+Greece,0,Low,11201.65,0.15
+Australia,0,Low,11015.710000000001,0.15
+Japan,0,Low,8188.13,0.11
+Norway,0,Low,7914.500000000001,0.11
+United Arab Emirates,0,Low,7032.41,0.09
+Finland,0,Low,6835.22,0.09
+Unspecified,0,Low,5946.580000000001,0.08
+Lithuania,0,Low,4892.68,0.07
+USA,0,Low,4339.62,0.06
+Singapore,0,Low,4037.77,0.05
+Poland,0,Low,3487.7999999999997,0.05
+Israel,0,Low,3199.4,0.04
+Thailand,0,Low,3070.54,0.04
+Malta,0,Low,2686.75,0.04
+Iceland,0,Low,1323.32,0.02
+Canada,0,Low,1216.66,0.02
+Korea,0,Low,1118.51,0.02
+RSA,0,Low,931.43,0.01
+Bahrain,0,Low,805.97,0.01
+West Indies,0,Low,536.41,0.01
+Brazil,0,Low,268.27,0.0
+Nigeria,0,Low,112.57,0.0

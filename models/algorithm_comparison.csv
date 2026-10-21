@@ -1,0 +1,5 @@
+Algorithm,Silhouette,Davies-Bouldin,Calinski-Harabasz,Winner
+K-Means,0.2174,1.3299,1095.6,
+K-Means++,0.2177,1.3275,1095.6,✅
+Hierarchical,0.1643,1.419,883.7,
+DBSCAN,N/A,N/A,N/A,❌ eliminated
